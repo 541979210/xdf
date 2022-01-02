@@ -1,14 +1,3 @@
-<!-- TOC -->
-
-- [Perspective-n-Point Background](#perspective-n-point-background)
-    - [d-2d Epipolar geometryFundamental, Essential, Homography](#d-2d-epipolar-geometryfundamental-essential-homography)
-    - [d-3d ICPIteration](#d-3d-icpiteration)
-    - [d-3d PnPDLT, P3P, EPnP, UPnP](#d-3d-pnpdlt-p3p-epnp-upnp)
-- [Several PnP Algorithm](#several-pnp-algorithm)
-- [Code Analysis](#code-analysis)
-- [Conclusion](#conclusion)
-
-<!-- /TOC -->
 # Perspective-n-Point Background
 
 ![](https://static01.imgkr.com/temp/8daf874c3a954dafb943af9a0211c564.png)
